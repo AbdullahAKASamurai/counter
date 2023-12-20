@@ -3,17 +3,14 @@ body {
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
-    height: 10vh;
+    height: 100vh;
 }
 
 .container {
     background: white;
-    max-width: 90%;
-    margin: center;
-    margin-top: 150px;
-    margin-bottom: 150px;
-    margin-left: 150px;
-    margin-right: 150px;
+    max-width: 80%;
+    margin: auto;
+    
     border: 3px solid black;
     border-radius: 10px;
 }
